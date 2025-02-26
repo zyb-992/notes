@@ -76,6 +76,3 @@ alter table 'table_name' drop index 'index_name'
 # 添加约束
 alter table 'table_name' add constraint 'constraint_name' unique (column list)
 ```
-
-## NULL值
-

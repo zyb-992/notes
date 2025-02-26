@@ -164,7 +164,3 @@
      resourceVersion: "296"
      uid: 6dd1d0fe-9e7a-40d4-9591-3b1d705cfde7
    ```
-
-   
-
-6. 
