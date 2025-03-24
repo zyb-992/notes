@@ -2,22 +2,9 @@
 
 ---
 
-## 内置包
+## go命令执行原理
 
----
-
-### · strings package
-
----
-
-#### API 
-
-#### 类型
-
-- Builder
-- Reader
-- Replacer
-- 
-
-
+> https://halfrost.com/go_command/
+>
+> https://hyper0x.github.io/go_command_tutorial/#/0.0
 
