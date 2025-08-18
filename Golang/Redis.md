@@ -8,7 +8,7 @@
 
 ## 底层数据结构
 
-- **跳表**
+- **跳跃表**
   - 类似于红黑树
   - 时间复杂度 O(logN)
 - List
@@ -26,6 +26,7 @@
     - XRANGE ：
     - XRANGE - + COUNT count 
     - XREAD COUNT count STREAMS stream ：
+- Bitmap
 
 ## 持久化
 
