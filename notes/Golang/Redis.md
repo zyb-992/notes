@@ -25,8 +25,30 @@
     - XADD : 追加数据
     - XRANGE ：
     - XRANGE - + COUNT count 
-    - XREAD COUNT count STREAMS stream ：
+    - XREAD COUNT count STREAMS stream 
 - Bitmap
+
+## 命令
+
+- Set
+  - SADD
+  - SISMEMBER
+  - SRANK
+  - SCARD
+  - SMEMBERS
+  - SINTER
+- ZSET(Sorted Set)
+  - ZADD
+  - ZRANK
+  - ZCARD
+  - ZRANGEBYSCORE
+  - ZMPOP
+  - ZOUNT : 返回符合输入分数区间内的键数量
+- BitMap
+  - BITCOUNT
+  - SETBIT
+  - GETBIT
+  - BITOPS
 
 ## 持久化
 
@@ -113,8 +135,6 @@ TTL key
 # 使用某个数据库
 SELECT 0-15
 ```
-
-
 
 ## 集群
 
